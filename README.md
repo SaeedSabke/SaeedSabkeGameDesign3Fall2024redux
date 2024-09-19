@@ -1,2 +1,2 @@
-# SaeedSabkeGameDesign3Fall2024redux
-The changes I made were to big to push to origin, so I had to make a new repository.
+# Game3Start
+An Unreal 5.4.2 project that includes lessons from Game Design 2, as a starting point for Game Design 3.
